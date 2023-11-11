@@ -1,7 +1,7 @@
 # Plano de testes:
 https://docs.google.com/document/d/1rR-Ki42dblZfof0rOAFkncnwKJrHlFaIUV9Tf8-PeTQ/edit?usp=sharing
 
-#Conclusão dos Testes:  
+# Conclusão dos Testes:  
 No total temos 15 testes aprovados e 8 testes reprovados.  
 Entretanto, para os cenários de teste temos 7 com algúm tipo de teste reprovado, restanto somente 3:  
 **Resultados**  
