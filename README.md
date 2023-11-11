@@ -5,7 +5,7 @@ https://docs.google.com/document/d/1rR-Ki42dblZfof0rOAFkncnwKJrHlFaIUV9Tf8-PeTQ/
 No total temos 15 testes aprovados e 8 testes reprovados.  
 Entretanto, para os cenários de teste temos 7 com algúm tipo de teste reprovado, restanto somente 3:  
 **Resultados**  
-Taxa de problemas ou erros pra os testes executados: **23%**
+Taxa de problemas ou erros pra os testes executados: **23%**  
 Taxa cenários de teste com erros ou problemas: **70%**
 
 # Execução dos testes:  
