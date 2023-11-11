@@ -39,46 +39,45 @@ Verificar a devida e correta conexão entre os packages, médodos e classes Java
 
 ## Cenário de Testes 4:
 ### C4, Teste 1:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C4T1.png)  
 :white_check_mark: *passado*
 ### C4, Teste 2:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C4T2-1.png)  
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C4T2-2.png)  
 :x: *reprovado*
 
 ### C4, Teste 3:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C4T3.png)  
 :x: *reprovado*
 ## Cenário de Testes 5:
 ### C5, Teste 1:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C3T2-2.png)  
 :white_check_mark: *passado*  
 ### C5, Teste 2:
-![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C3T3-1.png)
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C5T2.png)
 :white_check_mark: *passado*  
 
 ## Cenário de Testes 6:
 ### C6, Teste 1:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C6T1.png)  
 :x: *reprovado*
-
 ### C6, Teste 2:
-
-:x: *reprovado*
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C6T2.png)  
+:x: *reprovado*  
 ## Cenário de Testes 7:
 ### C7, Teste 1:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C7T1.png)  
 :white_check_mark: *passado* 
 ### C7, Teste 2:
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C7T2.png)  
 :x: *reprovado*  
 
 ## Cenário de Testes 8:
 ### C8, Teste 1
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C8T1.png)  
 :white_check_mark: *passado* 
 ### C8, Teste 2
-
+![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C8T1.png)  
 :x: *reprovado*  
 
 ## Cenáriode Testes 9:
