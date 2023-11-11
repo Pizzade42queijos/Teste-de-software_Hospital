@@ -1,6 +1,3 @@
-# Envolvidos:
-Audemário Alves e Everton Rodrigues
-
 # Plano de testes:
 https://docs.google.com/document/d/1rR-Ki42dblZfof0rOAFkncnwKJrHlFaIUV9Tf8-PeTQ/edit?usp=sharing
 
@@ -104,7 +101,8 @@ Verificar a devida e correta conexão entre os packages, médodos e classes Java
 ![Alt text](https://github.com/Pizzade42queijos/Teste-de-software_Hospital/blob/main/TestesPrints/C10T1.png)  
 :x: *reprovado*
 
-
+# Envolvidos:
+Audemário Alves e Everton Rodrigues
 
 
 
