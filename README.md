@@ -6,8 +6,7 @@ A execução dos cenários de teste segue a ordem listada no plano de testes, pa
 ## Cenário de Testes: 1:
 Verificar o funcionamento correto da interface gráfica do programa.
 ### C1, Teste 1:
-![Alt text](Teste-de-software_Hospital
-/TestesPrints/C1t1)
+![Alt text](Teste-de-software_Hospital/TestesPrints/C1t1)
 :white_check_mark: *passado*
 ### C1, Teste 2:
 ![Alt text](https://ibb.co/YWpmQj4)
